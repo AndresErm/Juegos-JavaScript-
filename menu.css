@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(30, 128, 255); 
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background: #ccc;
+}
+
+ h2{
+      color: rgb(0, 39, 112);
+     text-align:center;
+     font-family: 'Courier New', Courier, monospace;
+      background: #ccc;
+ }
+
+h4{
+    color: blueviolet;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #00d9ff;
+}
+
+div{
+    height:250px;
+    background: rgb(97, 197, 127);
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px solid #000;
+    display: inline-block;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+
+}
+
+a{
+
+    font-size: 20px;
+    text-decoration: none;
+    margin:20px 10px;
+    display: inline-block;
+    background: #5f006b;
+    color:#fff;
+    padding: 10px 20px;
+ 
+}
+
+img{
+    width: 250px;
+    height: 200px;
+    display: block;
+    border-radius: 5px;
+    float: right;
+}
+
+body{ 
+    background-image: url(https://images.hdqwalls.com/download/tetris-abstract-3840x2400.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff;
+    }
+
